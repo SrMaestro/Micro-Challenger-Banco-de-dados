@@ -42,3 +42,11 @@ WHERE valor > 50.00;
 
 
 
+
+
+-- COMANDOS UTEIS
+
+-- mostrar tabelas
+
+SELECT * FROM nome_da_sua_tabela;
+
